@@ -1,7 +1,7 @@
 const text = [
   "📍 Content Creator",
   "🎨 Freelance",
-  "    Video Grafer",
+  "📹 VideoGrapher",
   "🚀 Open for Collab!"
 ];
 
