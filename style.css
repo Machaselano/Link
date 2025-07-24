@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background: url("background.png") no-repeat center center fixed;
+  background: url("gambar/background.png") no-repeat center center fixed;
   background-size: cover;
   color: white;
   display: flex;
